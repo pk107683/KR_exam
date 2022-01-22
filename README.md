@@ -1,1 +1,2 @@
 # KR_exam
+zmiana
